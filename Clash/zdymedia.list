@@ -1,24 +1,43 @@
-# 自定义列表
-
 #玩偶哥哥（直连）
-DOMAIN-SUFFIX,wogg.link
-DOMAIN-SUFFIX,wogg.xyz
-DOMAIN-SUFFIX,xxooo.cf
+DOMAIN-KEYWORD, wogg
+DOMAIN-SUFFIX, wogg.link
+DOMAIN-SUFFIX, wogg.xyz
+DOMAIN-SUFFIX, xxooo.cf
+#玩偶表哥（直连）
+DOMAIN-KEYWORD, wobge.run
 #小纸条（直连）
-DOMAIN-SUFFIX,gitcafe.net
+DOMAIN-SUFFIX, gitcafe.net
 #jojo（直连）
-DOMAIN-SUFFIX,jiohub.top
+DOMAIN-SUFFIX, jiohub.top
+#阿里小站（直连）
+DOMAIN-KEYWORD,pan666
+DOMAIN-SUFFIX, pan666.net
+#云盘资源（直连）
+DOMAIN-KEYWORD,yunpan
+DOMAIN-SUFFIX, yunpan1.cc
 #厂长资源（直连）
-DOMAIN-SUFFIX,czzy88.com
-DOMAIN-SUFFIX,czzy22.com
-DOMAIN-SUFFIX,czzy66.com
+DOMAIN-KEYWORD, czzy
+DOMAIN-KEYWORD, czys
+DOMAIN-SUFFIX, czzy88.com
+DOMAIN-SUFFIX, czzy22.com
+DOMAIN-SUFFIX, czzy66.com
+DOMAIN-SUFFIX, cz233.com
+DOMAIN-SUFFIX, czys.top
+DOMAIN-SUFFIX, czzy77.com
 #在线之家（直连）
-DOMAIN-SUFFIX,zxzja.com
-DOMAIN-SUFFIX,zxzjhd.com
-DOMAIN-SUFFIX,zxzj.pro
+DOMAIN-KEYWORD, zxzj
+DOMAIN-SUFFIX, zxzja.com
+DOMAIN-SUFFIX, zxzjhd.com
+DOMAIN-SUFFIX, zxzj.pro
 #低端影视（直连）
-DOMAIN-SUFFIX,ddys.pro
-DOMAIN-SUFFIX,ddys.mov
+DOMAIN-KEYWORD, ddys
+DOMAIN-SUFFIX, ddys.pro
+DOMAIN-SUFFIX, ddys.mov
+#AGE动漫（直连）
+DOMAIN-SUFFIX, agedm.org
+#哔嘀影视（直连）
+DOMAIN-KEYWORD, bdys
+DOMAIN-SUFFIX, bdys10.com
 #索尼资源（直连）
 DOMAIN-SUFFIX,suoniapi.com
 DOMAIN,v3.sxzyhuij.com
@@ -56,8 +75,6 @@ DOMAIN-SUFFIX,wujinapi.com
 DOMAIN-SUFFIX,subocaiji.com
 #乐视资源（直连）
 DOMAIN-SUFFIX,leshizyapi.com
-#探索页（直连）
-DOMAIN-SUFFIX,infuseku.xyz
 #魔都动漫（直连）
 DOMAIN-SUFFIX,moduapi.cc
 #最大资源（直连）
@@ -74,10 +91,6 @@ DOMAIN-SUFFIX,xinlangapi.com
 DOMAIN-SUFFIX,kuaiyunzy.com
 #四圈资源（直连）
 DOMAIN-SUFFIX,fenwe078.cf
-#快云资源（直连）
-DST-PORT,1234,DIRECT
-#哔嘀影视（直连）
-DOMAIN-SUFFIX,bdys10.com
 #快看资源（直连）
 DOMAIN-SUFFIX,kuaikanzy.net
 #厂长&低端播放
@@ -98,3 +111,35 @@ DOMAIN-SUFFIX,alicloudccp.com
 DOMAIN,openapi.aliyundrive.com
 DOMAIN,auth.aliyundrive.com
 DOMAIN,api.aliyundrive.com
+#豆瓣封面
+DOMAIN-SUFFIX,doubanio.com
+#同步数据
+DOMAIN,gateway.icloud.com
+#杂七杂八的播放
+DOMAIN,ikunzyapi.com
+DOMAIN-KEYWORD,ikzybf
+DOMAIN-KEYWORD,49zyvideoplayurl
+DOMAIN-KEYWORD,v.cdnlz
+DOMAIN-KEYWORD,vip.kuaikan
+DOMAIN-KEYWORD,vip.ffzy
+DOMAIN-KEYWORD,kuaiyun
+DOMAIN,vod2.kczybf.com
+DOMAIN,top.1080pzy.co
+DOMAIN,c3.monidai.com
+DOMAIN,pan.dy066.com
+DOMAIN,hey11.cjkypo.com
+DOMAIN,hnts.ymuuy.com
+DOMAIN,hnzy.bfvvs.com
+DOMAIN-SUFFIX,maimn.com
+DOMAIN,img.lzzyimg.com
+DOMAIN,vip.ffzy-play5.com
+DOMAIN,vip.ffzy-online6.com
+DOMAIN,sss.image8899.net
+DOMAIN,ikcdn01.ikzybf.com
+DOMAIN,vip.ffzy-play9.com
+DOMAIN,svip.picffzy.com
+DOMAIN,vip.imgffzy.com
+DOMAIN,vip.ffzyread1.com
+DOMAIN,vip.ffzy-play3.com
+DOMAIN,vip.ffzyread.com
+DOMAIN,www.imgikzy.com
